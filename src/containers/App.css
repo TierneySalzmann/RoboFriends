@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'RoboFont';
+    font-style: normal;
+    font-weight: normal;
+    src: local('RoboFont'), url('PressStart2P-Regular.ttf');
+}
+
+h1 {
+    font-family: 'RoboFont';
+    font-weight: 200;
+    color: #1af5a2;
+}
+
